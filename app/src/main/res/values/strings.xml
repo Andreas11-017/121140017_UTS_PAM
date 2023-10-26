@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_PAM_121140017</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="nim">nim</string>
+    <string name="github">github</string>
+</resources>
